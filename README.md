@@ -17,7 +17,7 @@ README.md → this file
 
 🚀 How to run it
 Clone the repo
-git clone https://github.com/your-username/Fake-News-Detection.git
+git clone https://github.com/abhirajkochale/Fake-News-Detection.git
 cd Fake-News-Detection
 Extract the dataset
 Inside this repo there’s a file: FakeNewsDataset.rar
